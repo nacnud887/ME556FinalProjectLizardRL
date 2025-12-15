@@ -177,7 +177,7 @@ def main(env_cfg: ManagerBasedRLEnvCfg | DirectRLEnvCfg | DirectMARLEnvCfg, agen
 
     # ---------- NEW: setup for saving joint positions (radians) ----------
     # File where we'll store joint positions
-    actionFileName = "C:/Users/dja5722/Documents/DJAIsaacLab/Position Files/LizardRL_Radians_12-12-2025.csv"
+    actionFileName = "C:/Users/dja5722/Documents/DJAIsaacLab/Position Files/LizardRL_Radians_12-11-2025.csv"
 
     # Number of joints
     num_joints = 7
@@ -253,3 +253,4 @@ if __name__ == "__main__":
     main()
     # close sim app
     simulation_app.close()
+
