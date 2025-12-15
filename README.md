@@ -14,6 +14,11 @@ I did not copy all of the Isaac Files to this repo, but I will explain in order 
 Reinforcement Learning: https://youtu.be/2WuAtsqmyOE
 Hardware: https://youtu.be/dmKyzmaHs6E
 
+## 3D Models
+The SOLIDWORKS parts and full assembly is saved as [V1TailAllParts.zip](V1TailAllParts.zip).
+The URDF output is saved as [V1TailAssemblyURDF.urdf](V1TailAssemblyURDF.urdf).
+Finally, the USD file is saved as [V1TailAssembly.usd](V1TailAssembly.usd).
+
 ## Reinforcement Learning
 ### 1) Lizard Robot Code
 Under source > isaaclab_assets_isaaclab_assets > robots, I saved [lizard.py](lizard.py)
