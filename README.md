@@ -31,6 +31,9 @@ In another folder under that, titled agents, I saved [rsl_rl_ppo_cfg.py](rsl_rl_
 This is saved outside of the Isaac Repo, and in my system's AppData for the Conda Environment.
 In AppData\Local\miniconda3\envs\env_isaaclab\Lib\site-packages\rsl_rl\utils\, I saved [wandb_utils.py](wandb_utils.py).
 
+Here is what the graphs from WandB looked like for tracking the mean reward:
+![Mean Reward](WandBMeanReward.png)
+
 ### 4) Export Joint Angles
 In scripts > reinforcement_learning > rsl_rl, I saved [play.py](play.py).
 This exported [LizardRL_Radians_12-11-2025.csv](LizardRL_Radians_12-11-2025.csv).
